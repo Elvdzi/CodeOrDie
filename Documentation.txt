@@ -1,0 +1,24 @@
+Documentation for functions to develop (player):
+We need to implement the following:
+- Move the character --done
+	* up (negative y-direction)
+	* down (positive y-direction)
+	* right (positive x-direction)
+	* left (negative x-direction)
+	* move(x,y)
+	* rotate -done
+		- rotate towards enemy --done
+    * main functions are move_forward() and turn(grader) --done
+- (Shoot)
+- If/else statements
+- While-loop possible to change to for-loop
+- Polling
+- (Check/submit change button)
+- Discover enemy --done
+	* Radius - implement with collision detetection or scanning somehow --done
+- Turn to enemy --done
+- (Healthbar)
+- Variabels
+- Discover items --done-ish
+- Pickup item - automatiskt när man är på samma koordinat
+- Move to (item)?
